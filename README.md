@@ -21,6 +21,11 @@ Follow these steps to run the project locally:
 3. `Troubleshooting MySQL Error:`
 - If you encounter a MySQL shutdown error, ensure there are no other MySQL instances running.
 - Stop any conflicting MySQL instances using the services management tool (Windows) or terminal commands (Linux/macOS).
+  - Stop MySQL Service (Windows):
+  - Press Win + R to open the Run dialog.
+  - Type services.msc and press Enter to open the Services window.
+  - Look for a service named "MySQL" or "MySQL Server" in the list.
+  - Right-click on it and select "Stop" to stop the MySQL service.
 4. `Access phpMyAdmin:`
 - Open your web browser and navigate to http://localhost/phpmyadmin.
 5. `Import Database:`
