@@ -34,6 +34,7 @@ Follow these steps to run the project locally:
 # Technologies Used
 - MySql
 - PHP
+- Hack
 - HTML
 - CSS
 # Contributors
